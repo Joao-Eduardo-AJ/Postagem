@@ -1,2 +1,2 @@
-# html-01
+# Post básico em rede
  Projeto básico em HTML e CSS
