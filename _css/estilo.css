@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body {
+    background-color: #e7e7e7;
+    font-family: verdana, Helvetica, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title {
+    color: #115050;
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through;
+    color: #505050;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+#foto01 {
+    border-radius: 50px;
+    border-color: #505050;
+}
+
+#foto02 {
+  height: 100%;
+  width: 100%;  
+  margin-bottom: 15px;
+}
+
+article.post {
+    background-color: #ffffff;
+    padding: 20px 20px;
+    border: 3px solid #505050;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+p.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align:justify;
+}
+
+ul.list {
+list-style-type: square;
+padding-left: 15px;
+margin-left: 25px;
+}
+
+ul.list li a {
+    text-decoration: none;
+}
