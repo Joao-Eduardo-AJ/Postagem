@@ -1,6 +1,9 @@
-# Post básico em rede
- primeiro repositório do Santander Bootcamp
+# Post básico em rede social 
+---
+Primeiro repositório do Santander Bootcamp <br>
+elaborado com auxílio do HTML e estilizado com CSS <br>
+Trata-se de uma página contendo um post simples. <br>
 
-![HTML 01](https://user-images.githubusercontent.com/103449496/176320948-fae6c4b5-503a-485b-af1e-1eca40c8b3e4.png)
-
-Trata-se de uma página contendo um post simples.
+![1](https://user-images.githubusercontent.com/103449496/177442790-ed3670c6-33a0-4682-87ac-5ac7be6f0d50.jpg) <br>
+[@LinkedIn](https://www.linkedin.com/in/joao-eduardo-2000s/) <br>
+Me mande um [e-mail](joaoeduaj@gmail.com)
